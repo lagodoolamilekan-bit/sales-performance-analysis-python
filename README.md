@@ -34,5 +34,4 @@ Skill Demonstrated
 -Dashboard development
 -Business insight
 Dashboard Preview
-![Sales Performance Dashboard]
-(sales_dashboard_new.png)
+![Sales Performance Dashboard](sales_dashboard_new.png)
